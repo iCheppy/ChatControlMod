@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Chat Control Mod",
+  "name": "Chat Control Mod",
+  "description": "Useful chat utility mod for Hypixel SkyBlock.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["iCheppy"],
+  "credits": "iCheppy",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
